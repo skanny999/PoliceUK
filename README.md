@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## App Details
 
-You can use the [editor on GitHub](https://github.com/skanny999/PoliceUK/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This app is the ideal tool to see which areas are the safest and where the police is most active. If you are house hunting, a tourist or simply just curious you’ll be able to have a good idea of which location is safest and where the force is tackling the problems most effectively in England and Wales. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can search by location or just navigating the map
 
-### Markdown
+The figures are updated on a monthly basis by the National Policing Improvement Agency. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can select the period you are interested in, verifying the current status of the investigation.
 
-```markdown
-Syntax highlighted code block
+## Support
 
-# Header 1
-## Header 2
-### Header 3
+Should you have any suggestion on improving the app let me know at riccardo.scanavacca@icloud.com, and if you like the app don’t be afraid of leaving a review!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skanny999/PoliceUK/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
